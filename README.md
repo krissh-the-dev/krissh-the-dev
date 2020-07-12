@@ -1,4 +1,6 @@
 ### Hi there 👋
+# I am Krisha Moorthy
+a web developer
 
 <!--
 **KrishnaMoorthy12/KrishnaMoorthy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
