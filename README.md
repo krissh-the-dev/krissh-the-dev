@@ -13,14 +13,14 @@
 - ⚡ Fun fact: 📲 text me if you wanna know!
 
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="Krishna Moorthy | Twitter" width="26px" src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s320/Twitter+logo+2012.png" />][twitter]
 [<img align="left" alt="Krishna Moorthy | LinkedIn" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" />][LinkedIn]
 
 <br />
 
-### Languages and Libraries:
+### Languages and Libraries
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/java.png" />
@@ -35,7 +35,7 @@
 
 <br />
 
-### Tools and other stuffs:
+### Tools and other stuffs
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/npm.png" />
@@ -48,9 +48,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/codesandbox.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/figma.png" />
 
-<pre>
-<br />
-</pre>
+### Stats
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&hide_border=true" />
 
