@@ -15,8 +15,10 @@
 
 ### Connect with me
 
-[<img align="left" alt="Krishna Moorthy | Twitter" width="26px" src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s320/Twitter+logo+2012.png" />][twitter]
-[<img align="left" alt="Krishna Moorthy | LinkedIn" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" />][LinkedIn]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 
 <br />
 
@@ -53,7 +55,9 @@
 ### Stats
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&hide_border=true" />
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12">
 
 [twitter]: https://twitter.com/krish_the_dev
 [LinkedIn]: https://www.linkedin.com/in/krishna-moorthy-80b0a01a1/
+[Instagram]: https://www.instagram.com/cat_man_krish
+[Facebook]: https://www.facebook.com/akrishnamoorthy007
