@@ -52,8 +52,8 @@
 
 ### Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&count_private=true" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact">
+<img align="center" alt="Krish's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&count_private=true" />
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact" />
 
 [twitter]: https://twitter.com/krish_the_dev
 [LinkedIn]: https://www.linkedin.com/in/krishna-moorthy-80b0a01a1/
