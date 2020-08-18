@@ -51,9 +51,13 @@
 <br />
 
 ### Stats
-
-<img align="center" alt="Krish's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&count_private=true" />
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact" />
+<a href="stats">
+<img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&count_private=true" />
+</a>
+  
+<a href="stats">
+<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact" />
+</a>
 
 [twitter]: https://twitter.com/krish_the_dev
 [LinkedIn]: https://www.linkedin.com/in/krishna-moorthy-80b0a01a1/
