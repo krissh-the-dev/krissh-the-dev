@@ -3,7 +3,7 @@
 ### a web developer
 
 - 🔭 I’m currently working on my ✨ portfolio!
-- 🌱 I’m currently learning ⚛ React JS
+- 🌱 I’m currently learning ⚛ React Native
 - 👯 I’m looking to collaborate on many Open Source Projects 💖
 - 🤔 I’m looking for help with career 🏢
 - 💬 Ask me about anything! 🤗
