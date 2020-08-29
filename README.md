@@ -56,7 +56,7 @@
 </a>
   
 <a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=KrishnaMoorthy12&hide=css&layout=compact" />
+<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact" />
 </a>
 
 [twitter]: https://twitter.com/krish_the_dev
