@@ -22,16 +22,17 @@
 
 ### Languages and Libraries
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/html5.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/css3.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/node-dot-js.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/sass.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/bootstrap.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/sass.png" />
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/java.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/c.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/react.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/node-dot-js.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/bootstrap.png" />
 
 <br />
 
@@ -45,7 +46,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/heroku.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/netlify.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/codesandbox.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/figma.png" />
 
 <br />
