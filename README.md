@@ -22,31 +22,31 @@
 
 ### Languages and Libraries
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/sass.png" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/c.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/react.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/node-dot-js.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/bootstrap.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/sass.png" />
+<img align="left" alt="JS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/java.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/c.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/react.png" />
+<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/node-dot-js.png" />
+<img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/bootstrap.png" />
 
 <br />
 
 ### Tools and other stuffs
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/npm.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mongodb.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/firebase.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mysql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/heroku.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/netlify.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/figma.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/npm.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mongodb.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/firebase.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mysql.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/heroku.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/netlify.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/figma.png" />
 
 <br />
 
