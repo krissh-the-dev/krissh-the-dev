@@ -64,6 +64,6 @@
 </a>
 
 [twitter]: https://twitter.com/krish_the_dev
-[LinkedIn]: https://www.linkedin.com/in/krishna-moorthy-80b0a01a1/
+[LinkedIn]: https://www.linkedin.com/in/akrishnamoorthy007/
 [Instagram]: https://www.instagram.com/cat_man_krish
 [Facebook]: https://www.facebook.com/akrishnamoorthy007
