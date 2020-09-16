@@ -60,7 +60,7 @@
 </a>
   
 <a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact&langs_count=8" />
+<img align="center" alt="Krish's top languages" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact&langs_count=10" />
 </a>
 
 [twitter]: https://twitter.com/krish_the_dev
