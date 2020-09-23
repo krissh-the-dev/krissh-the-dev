@@ -56,11 +56,11 @@
 
 ### Stats
 <a href="#stats">
-<img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&count_private=true" />
+<img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=KrishnaMoorthy12&show_icons=true&count_private=true" />
 </a>
   
 <a href="#stats">
-<img align="center" alt="Krish's top languages" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact&langs_count=10" />
+<img align="center" alt="Krish's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=KrishnaMoorthy12&layout=compact&langs_count=10" />
 </a>
 
 [twitter]: https://twitter.com/krish_the_dev
