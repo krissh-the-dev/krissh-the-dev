@@ -49,7 +49,9 @@
 <img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="airtable" width="35px" src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" />
 <img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
+<img align="left" alt="auth0" width="35px" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" alt="figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
