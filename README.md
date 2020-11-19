@@ -38,6 +38,7 @@
 <img align="left" alt="NextJS" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <br />
+<br />
 <hr />
 
 ### Tools and other stuff
