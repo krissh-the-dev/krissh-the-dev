@@ -33,10 +33,10 @@
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Python" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NextJS" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <br />
 <br />
 <hr />
@@ -51,10 +51,13 @@
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt="airtable" width="35px" src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" />
 <img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
+<img align="left" alt="Apollo" width="35px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" />
 <img align="left" alt="auth0" width="35px" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" alt="figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
+<img align="left" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
 <br />
 <br />
 <hr />
