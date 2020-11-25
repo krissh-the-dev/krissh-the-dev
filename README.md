@@ -43,8 +43,6 @@
 
 ### Tools and other stuff
 
-<img align="left" alt="git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="git" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
