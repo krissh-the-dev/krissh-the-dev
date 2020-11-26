@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Krisha Moorthy
+# I am Krishna Moorthy
 ### a web developer
 
 - 🔭 I’m currently looking for some interesting projects to work!
