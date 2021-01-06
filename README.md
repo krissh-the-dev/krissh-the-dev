@@ -3,7 +3,7 @@
 ### a web developer
 
 - 🔭 I’m currently looking for some interesting projects to work!
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently exploring the world 🌎 and people 👨‍👩‍👦 in it.
 - 👯 I’m looking to collaborate on many Open Source Projects 💖
 - 🤔 I’m looking for help with career 🏢
 - 💬 Ask me about anything! 🤗
