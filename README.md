@@ -6,11 +6,11 @@
 	<a href="https://devkrish.tech">Portfolio</a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=dark" alt="krishnamoorthy12" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="krishnamoorthy12" /></p>
 
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthy12&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthy12&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
 
 <hr />
 
