@@ -31,36 +31,36 @@
 <h3 align="center">Languages and Libraries</h3>
 
 <p align="center">
-<img align="center" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="Sass" width="35px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
-<img align="center" alt="Styled components" width="35px" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" />
-<img align="center" alt="JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" alt="TS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="center" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="center" alt="Python" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="center" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="center" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="center" alt="NextJS" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-<img align="center" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="center" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
+<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
+<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
+<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
+<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
 </p>
 <hr />
 
 <h3 align="center">Tools and other stuff</h3>
 
 <p align="center">
-<img align="center" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="center" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="center" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="center" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-<img align="center" alt="airtable" width="35px" src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" />
-<img align="center" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
-<img align="center" alt="Apollo" width="35px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" />
-<img align="center" alt="auth0" width="35px" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" />
-<img align="center" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="center" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
-<img align="center" alt="figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="center" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
-<img align="center" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
+<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+<img align="center" alt="mysql" width="30px" src="./blobs/tools/mysql.svg" />
+<img align="center" alt="firebase" width="30px" src="./blobs/tools/firebase.svg" />
+<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
+<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
+<img align="center" alt="Apollo" width="30px" src="./blobs/tools/apollo-graphql.svg" />
+<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
+<img align="center" alt="auth0" width="30px" src="./blobs/tools/postgresql.svg" />
+<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
+<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
+<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
+<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
+<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
+<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
 </p>
