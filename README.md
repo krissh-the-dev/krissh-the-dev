@@ -32,7 +32,7 @@
 	<p align="center">
 		Hi, my name is Krishna Moorthy, I’m from Chennai, born and brought up. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean and understandable code. I love to work in a team. <br /><br />
 		Other than coding, I'm passionate about Astronomy 🌌 and bicycling 🚴‍♂️. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Hollywood and series like The Big Bang Theory and Silicon Valley. I like listening to Pop and Rock music 🎶. My favorite singer is Troye Sivan. I love cats 😼, although I don’t have one.  <br /><br />
-		I’m more of a casual person, I think everybody as a fellow human, regardless of their status. I strongly support equality; equality among genders, race, cast etc. People should be valued equally regardless of their birth.  <br /><br />
+		I’m more of a casual person, I think everybody as a fellow human, regardless of their status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. People should be valued equally regardless of their birth.  <br /><br />
 		Other than all these, I love talking to people!
 	</p>
 <hr />
