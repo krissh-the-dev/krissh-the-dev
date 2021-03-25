@@ -27,40 +27,58 @@
 
 </p>
 <hr />
-
-<h3 align="center">Languages and Libraries</h3>
-
-<p align="center">
-<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
-<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
-<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
-<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
-<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
-<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
-<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
-<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
-<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
-<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
-<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
-<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
-</p>
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
+	<p align="center">
+		Hi, my name is Krishna Moorthy, I’m from Chennai, born and brought up. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean and understandable code. I love to work in a team. <br /><br />
+		Other than coding, I'm passionate about Astronomy 🌌 and bicycling 🚴‍♂️. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Hollywood and series like The Big Bang Theory and Silicon Valley. I like listening to Pop and Rock music 🎶. My favorite singer is Troye Sivan. I love cats 😼, although I don’t have one.  <br /><br />
+		I’m more of a casual person, I think everybody as a fellow human, regardless of their status. I strongly support equality; equality among genders, race, cast etc. People should be valued equally regardless of their birth.  <br /><br />
+		Other than all these, I love talking to people!
+	</p>
 <hr />
+<details>
+	<summary><h3 style="display: inline;">What do I know?</h3></summary>
+	<h4 align="center">Languages and Libraries</h4>
+	<p align="center">
+	<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+	<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+	<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
+	<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+	<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+	<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
+	<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
+	<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+	<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+	<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+	<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
+	<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
+	</p>
+	<h4 align="center">Tools and other stuff</h4>
+	<p align="center">
+	<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+	<img align="center" alt="mysql" width="30px" src="./blobs/tools/mysql.svg" />
+	<img align="center" alt="firebase" width="30px" src="./blobs/tools/firebase.svg" />
+	<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
+	<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
+	<img align="center" alt="Apollo" width="30px" src="./blobs/tools/apollo-graphql.svg" />
+	<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
+	<img align="center" alt="auth0" width="30px" src="./blobs/tools/postgresql.svg" />
+	<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
+	<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
+	<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
+	<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
+	<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
+	<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+	</p>
+	<hr />
 
-<h3 align="center">Tools and other stuff</h3>
-
-<p align="center">
-<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
-<img align="center" alt="mysql" width="30px" src="./blobs/tools/mysql.svg" />
-<img align="center" alt="firebase" width="30px" src="./blobs/tools/firebase.svg" />
-<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
-<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
-<img align="center" alt="Apollo" width="30px" src="./blobs/tools/apollo-graphql.svg" />
-<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
-<img align="center" alt="auth0" width="30px" src="./blobs/tools/postgresql.svg" />
-<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
-<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
-<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
-<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
-<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
-<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+	<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
 </p>
+<p align="center">Enough here, scroll down 😂 </p>
+</details>
+</details>
+</details>
