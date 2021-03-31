@@ -2,8 +2,8 @@
 <h3 align="center">A passionate web developer</h3>
 
 <p align="center">
-	<a href="mailto:akrishnamoorthy007@gmail.com" align="center">Send Email</a> |
-	<a href="https://devkrish.tech">Portfolio</a>
+	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="https://devkrish.tech" target="_blank" align="center">Portfolio</a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="krishnamoorthy12" /></p>
