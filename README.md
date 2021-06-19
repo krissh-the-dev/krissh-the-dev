@@ -1,10 +1,21 @@
-<h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A passionate web developer</h3>
+<p align="center"><img align="center" src="./blobs/banner.png" alt="Krish" /></p>
 
 <p align="center">
 	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
 	<a href="https://devkrish.tech" target="_blank" align="center">Portfolio</a>
 </p>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/krish_the_dev" align="center" target="blank">
+	<img src="https://img.shields.io/twitter/follow/krish_the_dev?logo=twitter&style=for-the-badge" alt="krish_the_dev" />
+</a>
+
+<a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="akrishnamoorthy007" />
+</a>
+</p>
+<hr />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="krishnamoorthy12" /></p>
 
@@ -14,19 +25,6 @@
 
 <hr />
 
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-<a href="https://twitter.com/krish_the_dev" align="center" target="blank">
-	<img src="https://img.shields.io/twitter/follow/krish_the_dev?logo=twitter&style=for-the-badge" alt="krish_the_dev" />
-</a>
-
-<a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="akrishnamoorthy007" />
-</a>
-
-</p>
-<hr />
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
