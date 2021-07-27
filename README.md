@@ -18,9 +18,8 @@
 <hr />
 
 <!-- Streak -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="krishnamoorthy12" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" /></p>
 
-<br />
 
 <!-- Activity graph -->
 <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" /></p>
