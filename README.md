@@ -20,7 +20,6 @@
 <!-- Streak -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" /></p>
 
-
 <!-- Activity graph -->
 <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" /></p>
 
@@ -149,9 +148,11 @@
 <details align="center">
   <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
 	<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
-</p>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+	</p><br>
+	<p align="center">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+	</p>
 <p align="center">Enough here, scroll down 😂 </p>
 </details>
 </details>
