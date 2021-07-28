@@ -147,12 +147,15 @@
 
 <details align="center">
   <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
-	<p align="center">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
-	</p><br>
-	<p align="center">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
-	</p>
+	<table align="center">
+		<tr>
+		<td align="center">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+		</td>
+		<td align="center">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+		</td>
+	</table>
 <p align="center">Enough here, scroll down 😂 </p>
 </details>
 </details>
