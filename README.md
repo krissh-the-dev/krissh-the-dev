@@ -44,31 +44,105 @@
 	<summary><h3 style="display: inline;">What do I know?</h3></summary>
 	<h4 align="center">Languages and Libraries</h4>
 	<p align="center">
-	<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
-	<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
-	<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
-	<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
-	<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
-	<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
-	<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
-	<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
-	<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
-	<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
-	<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
-	<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
+	<table align="center">
+		<tr align="center">
+			<td align="center" width="96">
+				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+				<br />HTML
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+				<br />CSS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
+				<br />Sass
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+			<br />Styled
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+				<br />JS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
+				<br />TS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
+				<br />Java
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+				<br />Python
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+				<br />NodeJS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+				<br />React
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
+				<br />NextJS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
+				<br />GraphQL
+			</td>
+		</tr>
+	</table>
 	</p>
 	<h4 align="center">Tools and other stuff</h4>
 	<p align="center">
-	<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
-	<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
-	<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
-	<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
-	<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
-	<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
-	<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
-	<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
-	<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
-	<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+	<table>
+		<tr>
+			<td align="center" width="96">
+				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+				<br />MongoDB
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
+				<br />AirTable
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
+				<br />Sequelize
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
+				<br />Auth0
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
+				<br />Figma
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
+				<br />Heroku
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
+				<br />Netlify
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
+				<br />Vercel
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
+				<br />Prettier
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+				<br />ESlint
+			</td>
+		</tr>
+	</table>
 	</p>
 	<hr />
 
