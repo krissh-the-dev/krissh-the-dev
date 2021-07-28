@@ -60,13 +60,9 @@
 	<h4 align="center">Tools and other stuff</h4>
 	<p align="center">
 	<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
-	<img align="center" alt="mysql" width="30px" src="./blobs/tools/mysql.svg" />
-	<img align="center" alt="firebase" width="30px" src="./blobs/tools/firebase.svg" />
 	<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
 	<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
-	<img align="center" alt="Apollo" width="30px" src="./blobs/tools/apollo-graphql.svg" />
 	<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
-	<img align="center" alt="auth0" width="30px" src="./blobs/tools/postgresql.svg" />
 	<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
 	<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
 	<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
