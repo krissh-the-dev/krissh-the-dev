@@ -1,5 +1,10 @@
 <p align="center"><img align="center" src="./blobs/banner.png" alt="Krish" /></p>
 
+<!-- BETA [coming soon]
+ <p align="center">
+	  <img align="center" src="https://titlecard.herokuapp.com/?card=plain&intro=Hi,%20I%20am&title=Krishna%20Moorthy&about=UI/%20UX%20Designer,%20Full%20Stack%20Developer&bg=rgba(0,0,0,0)&fg=rgb(112,0,255)" alt="banner" />
+</p>
+ -->
 <p align="center">
 	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
 	<a href="https://devkrish.tech" target="_blank" align="center">Portfolio</a>
