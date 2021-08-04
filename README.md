@@ -155,13 +155,13 @@
 	<table align="center">
 		<tr>
 		<td align="center">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
 		</td>
 		<td align="center">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
 		</td>
 	</table>
-<p align="center">Enough here, scroll down 😂 </p>
+	  <p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>
 </details>
 </details>
 </details>
