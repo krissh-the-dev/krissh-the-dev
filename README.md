@@ -24,15 +24,23 @@
 <hr />
 
 <!-- Streak -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" /></p>
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+</a>
+</p>
 
 <!-- Activity graph -->
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" /></p>
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+</a>
+</p>
 
 <br />
 
 <!-- Trophies -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthy12&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthy12&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
 
 <hr />
 
@@ -156,10 +164,14 @@
 	<table align="center">
 		<tr>
 		<td align="center">
+		 <a href="#go-nowhere">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+			</a>
 		</td>
 		<td align="center">
+		 <a href="#go-nowhere">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			</a>
 		</td>
 	</table>
 	  <p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>
