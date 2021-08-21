@@ -7,7 +7,7 @@
  -->
 <p align="center">
 	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://devkrish.tech" target="_blank" align="center">Portfolio</a> |
+	<a href="https://devkrish.me" target="_blank" align="center">Portfolio</a> |
 	<a href="https://polywork.com/krish_the_dev" target="_blank" align="center">Polywork</a>
 </p>
 
