@@ -1,180 +1,118 @@
-<p align="center"><img align="center" src="./blobs/banner.png" alt="Krish" /></p>
+# Portfolio v2
 
-<!-- BETA [coming soon]
- <p align="center">
-	  <img align="center" src="https://titlecard.herokuapp.com/?card=plain&intro=Hi,%20I%20am&title=Krishna%20Moorthy&about=UI/%20UX%20Designer,%20Full%20Stack%20Developer&bg=rgba(0,0,0,0)&fg=rgb(112,0,255)" alt="banner" />
-</p>
- -->
-<p align="center">
-	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://devkrish.me" target="_blank" align="center">Portfolio</a> |
-	<a href="https://polywork.com/krish_the_dev" target="_blank" align="center">Polywork</a>
-</p>
+[
+![Netlify Status](https://api.netlify.com/api/v1/badges/36e0d159-6a65-40f1-9910-36bc4b2d67c1/deploy-status)](https://app.netlify.com/sites/modest-kare-bf32da/deploys)
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/krish_the_dev" align="center" target="blank">
-	<img src="https://img.shields.io/twitter/follow/krish_the_dev?logo=twitter&style=for-the-badge" alt="krish_the_dev" />
-</a>
+The second iteration of my personal portfolio site.
 
-<a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="akrishnamoorthy007" />
-</a>
-</p>
-<hr />
+TL; DR
 
-<!-- Streak -->
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
-</a>
-</p>
+## Forking
 
-<!-- Activity graph -->
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
-</a>
-</p>
+Yes! You can use my code and design on your site! But of course, **_with attribution_**.
+I have put in a lot of effort to build this ground up. It's not easy to design and build a website, you all know that, and I strongly believe that I deserve to get attributed for my work. So, if you are planning to use my code, I request you to leave the footer unaltered.
 
-<br />
+I don't want to use harsh words, but _**plagiarism is bad**_. Please empathize my situation and give me proper credits for my work.
 
-<!-- Trophies -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthy12&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
+### Design
 
-<hr />
+You can always draw inspiration from my design, and no, you don't have to give me credits for that, unless you're copying most of them. I myself drew inspirations from [Brittany Chiang](https://github.com/bchiang7).
 
-<details align="center">
-  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
-	<p align="center">
-		Hi, my name is Krishna Moorthy, I’m from Chennai, born and brought up. I'm a senior year CS student at the University College of Engineering, Trichy. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean, understandable and testable code. I love to work in a team. <br /><br />
-		Other than coding, I'm passionate about Astronomy 🌌 and bicycling 🚴‍♂️. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Hollywood and series like The <a href="https://www.netflix.com/in/title/70143830?source=35">Big Bang Theory</a> and <a href="https://www.hotstar.com/in/tv/silicon-valley/8210?utm_source=gwa">Silicon Valley</a>. I like listening to Pop and Rock music 🎶. My favorite singer is <a href="https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP">Troye Sivan</a>. I love cats 😼, although I don’t have one.  <br /><br />
-		I’m more of a casual person, I think everybody as a fellow human, regardless of their status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. People should be valued equally regardless of their birth.  <br /><br />
-		Other than all these, I love talking to people!
-	</p>
-<hr />
-<details>
-	<summary><h3 style="display: inline;">What do I know?</h3></summary>
-	<h4 align="center">Languages and Libraries</h4>
-	<p align="center">
-	<table align="center">
-		<tr align="center">
-			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
-				<br />HTML
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
-				<br />CSS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
-				<br />Sass
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
-			<br />Styled
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
-				<br />JS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
-				<br />TS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
-				<br />Java
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
-				<br />Python
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
-				<br />NodeJS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
-				<br />React
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
-				<br />NextJS
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
-				<br />GraphQL
-			</td>
-		</tr>
-	</table>
-	</p>
-	<h4 align="center">Tools and other stuff</h4>
-	<p align="center">
-	<table>
-		<tr>
-			<td align="center" width="96">
-				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
-				<br />MongoDB
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
-				<br />AirTable
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
-				<br />Sequelize
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
-				<br />Auth0
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
-				<br />Figma
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
-				<br />Heroku
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
-				<br />Netlify
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
-				<br />Vercel
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
-				<br />Prettier
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
-				<br />ESlint
-			</td>
-		</tr>
-	</table>
-	</p>
-	<hr />
+### Attribution
 
-<details align="center">
-  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
-	<table align="center">
-		<tr>
-		<td align="center">
-		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
-			</a>
-		</td>
-		<td align="center">
-		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
-			</a>
-		</td>
-	</table>
-	  <p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>
-</details>
-</details>
-</details>
+If you copy only the design, you can mention just that, if you draw inspirations or copy only a part of it, then you can call it yours :)
+
+I don't want credits for any of your work. Your heart knows what's right :) _Attribute to me wherever you think necessary_.
+
+## Development
+
+### Get started:
+
+1.  You need **_node js_** (v14+ recommended) installed and setup in your machine to get started.
+    Choose the one appropriate for you and install: https://nodejs.org/en/download/
+
+2.  Fork the repository.
+
+3.  Clone/ download your fork to your local machine.
+
+4.  Navigate to the root directory of the project and install the dependecies using the command:
+
+        npm install
+
+5.  Create a `.env` file in the project root directory with the following variables: `REACT_APP_RECAPTCHA`, `REACT_APP_SERVICE_ID`, `REACT_APP_TEMPLATE_ID`, `REACT_APP_TOKEN`, `REACT_APP_USER_ID`
+
+6.  Start the development server by using the command:
+
+        npm start
+
+Now you will have the semi functional site running on port 3000 on your localhost.
+
+## Updating textual content
+
+Most of the _content are just hard coded_ in to their corresponding files in the `src/section` directory. For the projects, the data are kept seperately in a `data.js` file in the same folder.
+
+## Changing images
+
+All the images used in the site is kept in `src/images` folder. Each subfolder in the folder contains the same image in different resolutions and an `index.js` file which exports them all together.
+
+If you don't want to have responsive images, just keep a single image and export the same in different names (I did the same for most of them).
+
+## Changing icons
+
+All the tech icons are hand picked from different sources, mostly from [World Vector Logo](https://worldvectorlogo.com/) and [Vecor Logo Zone](https://www.vectorlogo.zone/). The other line icons (the social icons and other UI icons) are from [Feather Icons](https://feathericons.com/). You need to hand pick the icons that meet your needs. All the icons are put together into a single icon font using [Icomoon](https://icomoon.io/).
+
+The tech icons are in `src/fonts/Logo` and the line icons are in `src/fonts/Icomoon`. There are a few changes you need to make in order to use it in the site. You can easily figure out what changes are needed by just looking into the corresponding folders and files.
+
+## Fixing the stats and the graph
+
+The GithHub statistics are fetched using the GitHub GraphQL API. You need a Personal Access Token in order to send requests to the API. [Click here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) to know more about GitHub Personal Access Tokens.
+
+1. Save the token in the `.env` that we creted earlier, in the variable `REACT_APP_TOKEN`.
+
+   Example:
+   `REACT_APP_TOKEN=abcdefg1234567`
+
+2. Change the username to your username in the file `src/sections/Statistics/data.js`, inside the query string: `user(login: "KrishnaMoorthy12")`.
+
+NOTE: I have set conditions to fetch and render real data only on production environment (to avoid exhausting hourly limit and reduce unnecessary requests and server load on github)
+
+## Get the contact form working
+
+The contact form uses [EmailJS](https://www.emailjs.com/), a freemium mailing API provider. You need to get the Access Token, the service ID and the template ID.
+
+1. Create a new email ID (preferably Gmail)
+2. Log on to www.emailjs.com and create a free account.
+3. Add your new email as a service and get the service ID (`REACT_APP_SERVICE_ID`)
+4. Create/ choose a template that suits you and get the template ID (`REACT_APP_TEMPLATE_ID`) .
+5. Get the User ID (`REACT_APP_USER_ID`) and Access Token (`REACT_APP_TOKEN`) from the integration tab.
+6. Save each value in their respective variables in the `.env` file.
+
+## Customizing
+
+I don't feel like writing this right now 😛, will be writing a guide sometime in the future though. Subscribe to updates by clicking on the watch button on the top right if want to get informed about changes.
+
+## How to deploy? It's Friday!
+
+As you would've already noticed (didn't you see the netlify status badge above?), I'm using Netlify. You can also use vercel or whatever you like.
+
+Here's a useful article by by Abhishek Jakhar on `freeCodeCamp` that describes the process: [Click me!](https://www.freecodecamp.org/news/how-to-deploy-a-react-application-to-netlify-363b8a98a985/)
+
+For our site to function properly, you also need to add the environment variables by going into Site Settings > Build & Deploy > Environment.
+
+## References
+
+Also coming soon 😪
+
+## Shameless kangs with no attribution:
+
+| S. No | GitHub Profile                              | Repository | Site Link |
+|-------|---------------------------------------------|------------|-----------|
+|     1 | [Manas Kumar](https://github.com/supermanas)| https://github.com/supermanas/web | https://web-two-phi.vercel.app/  |
+
+--------
+
+> "Once a Bird asked a Bee: After constant hard-work, you prepare honey. But people come and steal it. Do you not feel sad ?
+
+> Wonderful reply by Bee: Never... Because only thing these people can do is to steal 'my honey'... Not the 'art of making honey'...
+
+> In this world, _**anyone can copy your CREATIONS but not your TALENT**_."
