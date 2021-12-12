@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="./blobs/banner.png" alt="Krish" /></p>
+<p align="center"><img align="center" src="./blobs/banner.svg" alt="Krish" /></p>
 
 <!-- BETA [coming soon]
  <p align="center">
