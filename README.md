@@ -68,20 +68,20 @@
 				<br />CSS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
-				<br />Sass
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
-			<br />Styled
-			</td>
-			<td align="center" width="96">
 				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
 				<br />JS
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
 				<br />TS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
+				<br />Sass
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+				<br />Styled
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
@@ -96,16 +96,20 @@
 				<br />NodeJS
 			</td>
 			<td align="center" width="96">
+				<img align="center" alt="NestJS" width="30px" src="./blobs/libraries/nestjs.svg" />
+				<br />NestJS
+			</td>
+			<td align="center" width="96">
 				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
 				<br />React
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NextJS" width="30px" src="./blobs/tools/next-js.svg" />
+				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
 				<br />NextJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="GraphQL" width="30px" src="./blobs/tools/graphql.svg" />
-				<br />GraphQL
+				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
+				<br />Jest
 			</td>
 		</tr>
 	</table>
@@ -117,10 +121,6 @@
 			<td align="center" width="96">
 				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
 				<br />MongoDB
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="airtable" width="30px" src="./blobs/tools/airtable.svg" />
-				<br />AirTable
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
