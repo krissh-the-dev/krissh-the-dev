@@ -50,7 +50,7 @@
 		Hi, my name is Krishna Moorthy, I’m from Chennai, born and brought up. I'm a senior year CS student at the University College of Engineering, Trichy. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean, understandable and testable code. I love to work in & as a team. <br /><br />
 		Other than coding, I'm passionate about Astronomy 🌌 and bicycling 🚴‍♂️. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Hollywood and series like The <a href="https://www.netflix.com/in/title/70143830?source=35">Big Bang Theory</a> and <a href="https://www.hotstar.com/in/tv/silicon-valley/8210?utm_source=gwa">Silicon Valley</a>. I like listening to Pop and Rock music 🎶. My favorite singer is <a href="https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP">Troye Sivan</a>. I love cats 😼, although I don’t have one.  <br /><br />
 		I’m more of a casual person, I regard everybody as a fellow human, regardless of their socio-political and / or economic status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. I believe people should be valued equally regardless of their birth.  <br /><br />
-		Other than all these, I love talking to people! So maybe crash on my DM?
+		Other than all these, I love talking to people! So maybe slide into my DM?
 	</p>
 <hr />
 <details>
