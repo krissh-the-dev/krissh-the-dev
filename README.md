@@ -8,8 +8,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/krish_the_dev" align="center" target="blank">
-	<img src="https://img.shields.io/twitter/follow/krish_the_dev?logo=twitter&style=for-the-badge" alt="krish_the_dev" />
+<a href="https://twitter.com/krissh_the_dev" align="center" target="blank">
+	<img src="https://img.shields.io/twitter/follow/krissh_the_dev?logo=twitter&style=for-the-badge" alt="krissh_the_dev" />
 </a>
 
 <a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
