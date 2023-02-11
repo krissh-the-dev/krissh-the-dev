@@ -164,7 +164,7 @@ I’m more of a casual person, I regard everybody as a fellow human, regardless 
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=krissh-the-dev&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=krissh_the_dev&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
 			</a>
 		</td>
 		<td align="center">
