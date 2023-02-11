@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="./blobs/banner.svg" alt="Krish" /></p>
+<p align="center"><img align="center" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/banner.svg" alt="Krish" /></p>
 
 <p align="center">
 	<a href="mailto:krissh.the.dev@gmail.com" target="_blank" align="center">Send Email</a> |
@@ -59,55 +59,55 @@ I’m more of a casual person, I regard everybody as a fellow human, regardless 
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+				<img align="center" alt="HTML5" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/html.svg" />
 				<br />HTML
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+				<img align="center" alt="CSS3" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/css.svg" />
 				<br />CSS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+				<img align="center" alt="JS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/javascript-rounded.svg" />
 				<br />JS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
+				<img align="center" alt="TS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/typescript.svg" />
 				<br />TS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Sass" width="30px" src="./blobs/libraries/sass.svg" />
+				<img align="center" alt="Sass" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/sass.svg" />
 				<br />Sass
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+				<img align="center" alt="Styled components" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/styled-components.svg" />
 				<br />Styled
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Java" width="30px" src="./blobs/languages/java.svg" />
+				<img align="center" alt="Java" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/java.svg" />
 				<br />Java
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+				<img align="center" alt="Python" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/languages/python.svg" />
 				<br />Python
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+				<img align="center" alt="NodeJS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/nodejs.svg" />
 				<br />NodeJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NestJS" width="30px" src="./blobs/libraries/nestjs.svg" />
+				<img align="center" alt="NestJS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/nestjs.svg" />
 				<br />NestJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+				<img align="center" alt="React" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/react.svg" />
 				<br />React
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
+				<img align="center" alt="NextJS" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/next-js.svg" />
 				<br />NextJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Jest" width="30px" src="./blobs/libraries/jest.svg" />
+				<img align="center" alt="Jest" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/libraries/jest.svg" />
 				<br />Jest
 			</td>
 		</tr>
@@ -118,39 +118,39 @@ I’m more of a casual person, I regard everybody as a fellow human, regardless 
 	<table>
 		<tr>
 			<td align="center" width="96">
-				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+				<img align="center" alt="mongodb" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/mongodb.svg" />
 				<br />MongoDB
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
+				<img align="center" alt="sequelize orm" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/sequelize.svg" />
 				<br />Sequelize
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
+				<img align="center" alt="auth0" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/auth0.svg" />
 				<br />Auth0
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
+				<img align="center" alt="figma" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/figma.svg" />
 				<br />Figma
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
+				<img align="center" alt="heroku" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/heroku.svg" />
 				<br />Heroku
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
+				<img align="center" alt="netlify" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/netlify.svg" />
 				<br />Netlify
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
+				<img align="center" alt="vercel" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/vercel.svg" />
 				<br />Vercel
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
+				<img align="center" alt="prettier" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/prettier.svg" />
 				<br />Prettier
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+				<img align="center" alt="eslint" width="30px" src="https://raw.github.com/krissh-the-dev/krissh-the-dev/master/blobs/tools/eslint.svg" />
 				<br />ESlint
 			</td>
 		</tr>
