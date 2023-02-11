@@ -1,9 +1,9 @@
 <p align="center"><img align="center" src="./blobs/banner.svg" alt="Krish" /></p>
 
 <p align="center">
-	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="mailto:krissh.the.dev@gmail.com" target="_blank" align="center">Send Email</a> |
 	<a href="https://krissh.dev" target="_blank" align="center">Portfolio</a> |
-	<a href="https://polywork.com/krish_the_dev" target="_blank" align="center">Polywork</a>
+	<a href="https://polywork.com/krissh_the_dev" target="_blank" align="center">Polywork</a>
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -12,8 +12,8 @@
 	<img src="https://img.shields.io/twitter/follow/krissh_the_dev?logo=twitter&style=for-the-badge" alt="krissh_the_dev" />
 </a>
 
-<a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="akrishnamoorthy007" />
+<a href="https://www.linkedin.com/in/krissh-the-dev/" align="center" target="blank">
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="krissh-the-dev" />
 </a>
 </p>
 <hr />
@@ -21,21 +21,21 @@
 <!-- Streak -->
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krissh-the-dev&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krissh-the-dev" />
 </a>
 </p>
 
 <!-- Activity graph -->
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=krissh-the-dev&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
 </a>
 </p>
 
 <br />
 
 <!-- Trophies -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthy12&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krissh-the-dev&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a> </p>
 
 <hr />
 
@@ -164,12 +164,12 @@ I’m more of a casual person, I regard everybody as a fellow human, regardless 
 		<tr>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=krissh-the-dev&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
 			</a>
 		</td>
 		<td align="center">
 		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissh-the-dev&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
 			</a>
 		</td>
 	</table>
