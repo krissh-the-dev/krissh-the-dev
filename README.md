@@ -6,6 +6,7 @@
 	<a href="https://polywork.com/krissh_the_dev" target="_blank" align="center">Polywork</a>
 </p>
 
+<!--- Removed
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/krissh_the_dev" align="center" target="blank">
@@ -18,14 +19,14 @@
 </p>
 <hr />
 
-<!-- Streak -->
+<!-- Streak
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krissh-the-dev&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krissh-the-dev" />
 </a>
 </p>
 
-<!-- Activity graph -->
+<!-- Activity graph
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=krissh-the-dev&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
@@ -34,10 +35,11 @@
 
 <br />
 
-<!-- Trophies -->
+<!-- Trophies
 <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=krissh-the-dev&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krissh-the-dev" /></a> </p>
 
 <hr />
+--->
 
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
